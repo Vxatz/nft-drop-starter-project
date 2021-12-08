@@ -1,0 +1,19 @@
+{
+    "name": "Kostas",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "HTzHzhR2RVcQvJ4MpdcrowHNABtTrZdFpmaQ6sgfLC61",
+          "share": 100
+        }
+      ]
+    }
+  }

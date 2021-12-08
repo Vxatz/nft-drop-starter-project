@@ -28,6 +28,14 @@
   /* background-color: #60c657; */
 }
 
+.img-bros {
+  max-width: 575px;
+  max-height: 237.5px;
+  width: auto;
+  height: auto;
+  border-radius: 30%;
+}
+
 .header {
   margin: 0;
   font-size: 50px;
@@ -65,7 +73,7 @@
 }
 
 .mint-button {
-  background: -webkit-linear-gradient(left, #4e44ce, #35aee2);
+  background: -webkit-linear-gradient(left, orange, #1e7e08);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
   margin-left: 10px;

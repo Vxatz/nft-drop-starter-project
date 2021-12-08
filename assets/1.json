@@ -1,0 +1,19 @@
+{
+    "name": "Thanasis",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "HTzHzhR2RVcQvJ4MpdcrowHNABtTrZdFpmaQ6sgfLC61",
+          "share": 100
+        }
+      ]
+    }
+  }
